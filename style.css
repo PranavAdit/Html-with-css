@@ -1,0 +1,49 @@
+.b1 {
+    background-color: #ffe4c4;
+    width: 85%;
+    height: 1016px;
+    margin-left: 10%;
+    padding-top: 5%;
+}
+.b2 {
+    background-color: rgb(240, 190, 140);
+    width: 80%;
+    height: 150px;
+    margin: -23px 38px;
+    padding-left: 10%;
+    display: inline-block;
+}
+h1{
+    margin-top: 6%;
+    margin-left: -10%;
+    height: 40px;
+    color: forestgreen;
+}
+.b3 {
+    float: left;
+    background-color: rgb(240, 190, 140);
+    width: 45%;
+    margin-top: 34px;
+    margin-left: 40px;
+    padding: 1%;
+}
+.b4 {
+    float: right;
+    background-color: rgb(240, 190, 140);
+    width: 30%;
+    margin-top: 36px;
+    margin-right: 100px;
+    padding: 1%;
+}
+b{
+    text-align: center;
+}
+.b5 {
+    float: left;
+    background-color: rgb(240, 190, 140);
+    width: 80%;
+    height: 50px;
+    margin: 15px 40px;
+    padding-left: 10%;
+    padding-right: -10%;
+}
